@@ -1,2 +1,4 @@
-# TIL
-Today I Learned
+# Today I Learned
+
+- https://velog.io/@hourlyheejin?tag=TIL
+
