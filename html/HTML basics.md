@@ -166,4 +166,4 @@ ex) "이 HTML 요소가 가진 목적이나 역할이 무엇인가?"
 	
 	
 ## Reference
-[MDN Web Docs] (https://developer.mozilla.org/ko/docs/Web/HTML)
+[MDN Web Docs](https://developer.mozilla.org/ko/docs/Web/HTML)
