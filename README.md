@@ -8,7 +8,7 @@
 
 ## 분류
 ### HTML
-
+- https://github.com/heejinna/TIL/blob/main/html/HTML%20basics.md
 
 ### CSS
 
