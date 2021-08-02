@@ -106,7 +106,8 @@ ex) "이 HTML 요소가 가진 목적이나 역할이 무엇인가?"
 <html>
 	<body>
 		<h1>This is Heading</h1>
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+		sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 	</body>
 </html>
 ```
