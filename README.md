@@ -11,4 +11,5 @@
 - [HTML Basics](https://github.com/heejinna/TIL/blob/main/html/HTML%20basics.md)
 
 ### CSS
+- [CSS Basics](https://github.com/heejinna/TIL/blob/main/css/CSS%20Basics.md)
 
