@@ -15,7 +15,7 @@
 - [The box model](https://github.com/heejinna/TIL/blob/main/css/The%20box%20model.md)
 
 ### Java
-- [Singleton pattern](https://github.com/heejinna/TIL/blob/main/java/Singleton%20pattern.md)
+- [Singleton pattern](https://github.com/heejinna/TIL/blob/main/Java/Singleton%20pattern.md)
 
 ### Database
 - [eXERD DB 모델링](https://github.com/heejinna/TIL/blob/main/Database/eXERD%20DB%20modeling.md)
