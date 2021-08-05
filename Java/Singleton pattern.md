@@ -19,6 +19,7 @@
 
 <br>
 
+## 싱글턴 패턴을 활용해 Connection 클래스 생성하기
 ```java
 package jdbc.day04.singletonPattern;
 
