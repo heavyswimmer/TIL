@@ -11,7 +11,7 @@
 - [HTML basics](https://github.com/heejinna/TIL/blob/main/html/HTML%20basics.md)
 
 ### CSS
-- [CSS basics](https://github.com/heejinna/TIL/blob/main/css/CSS%20Basics.md)
+- [CSS basics](https://github.com/heejinna/TIL/blob/main/css/CSS%20basics.md)
 - [The box model](https://github.com/heejinna/TIL/blob/main/css/The%20box%20model.md)
 
 ### Java
