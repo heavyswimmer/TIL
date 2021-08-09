@@ -28,3 +28,7 @@ type 속성은 반드시 지정하는 것이 바람직하며 속성값으로 but
 
 ## fieldset/legend
 fieldset 태그는 관련된 입력 양식들을 그룹화할 때 사용한다. legend 태그는 fieldset 태그 내에서 사용되어야 하며 그룹화된 fieldset 의 제목을 정의한다.
+
+## Reference
+[MDN 요소 참고서](https://developer.mozilla.org/ko/docs/Web/HTML/Element/form) <br>
+[모던 자바스크립트 Deep Dive 문서](https://poiemaweb.com/html5-tag-forms)
