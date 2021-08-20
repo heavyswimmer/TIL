@@ -20,6 +20,7 @@
 ### CSS3
 - [CSS basics](https://github.com/heejinna/TIL/blob/main/css/CSS%20basics.md)
 - [The box model](https://github.com/heejinna/TIL/blob/main/css/The%20box%20model.md)
+- [Display property](https://github.com/heejinna/TIL/blob/main/css/display%20property.md)
 
 ### Java
 - [Singleton pattern](https://github.com/heejinna/TIL/blob/main/Java/Singleton%20pattern.md)
