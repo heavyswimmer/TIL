@@ -6,18 +6,17 @@
 <br>
 
 ## 📝 작성 규칙
-- 폴더와 파일명은 가능한 영문으로 작성.
-- 작성하는 일에 부담을 갖지 않도록 날짜가 아닌 그날 배운 내용의 주제를 제목으로 함.
-- 참고한 레퍼런스는 맨 아래에 명기하도록 함.
+- 폴더와 파일명은 가능한 영문으로 작성한다.
+- 작성하는 일에 부담을 갖지 않도록 날짜가 아닌 그날 배운 내용의 주제를 제목으로 한다.
+- 불필요한 Commit 을 만들지 않도록 노력한다.
+- 참고한 레퍼런스는 맨 아래에 명기하도록 한다.
 
 <br>
   
 ## 📂 분류
-### HTML5
+### Web
 - [HTML basics](https://github.com/heejinna/TIL/blob/main/html/HTML%20basics.md)
 - [Form element](https://github.com/heejinna/TIL/blob/main/html/Form%20element.md)
-
-### CSS3
 - [CSS basics](https://github.com/heejinna/TIL/blob/main/css/CSS%20basics.md)
 - [The box model](https://github.com/heejinna/TIL/blob/main/css/The%20box%20model.md)
 - [Display property](https://github.com/heejinna/TIL/blob/main/css/display%20property.md)
