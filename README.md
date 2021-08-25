@@ -14,6 +14,9 @@
 <br>
   
 ## 📂 분류
+### JavaScript
+
+
 ### Web
 - [HTML basics](https://github.com/heejinna/TIL/blob/main/html/HTML%20basics.md)
 - [Form element](https://github.com/heejinna/TIL/blob/main/html/Form%20element.md)
