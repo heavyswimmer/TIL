@@ -15,7 +15,7 @@
   
 ## 📂 분류
 ### JavaScript
-- [Variable](https://github.com/heejinna/TIL/blob/main/javascript/Variable.md)
+- [변수(variable)](https://github.com/heejinna/TIL/blob/main/javascript/Variable.md)
 
 
 ### Web
