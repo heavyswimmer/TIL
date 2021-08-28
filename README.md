@@ -8,7 +8,8 @@
 ## 📝 작성 규칙
 - 폴더와 파일명은 가능한 영문으로 작성한다.
 - 작성하는 일에 부담을 갖지 않도록 날짜가 아닌 그날 배운 내용의 주제를 제목으로 한다.
-- 불필요한 Commit 을 만들지 않도록 노력한다.
+- 최대한 나의 언어로 바꿔서 작성하기 위해 노력한다.
+- 불필요한 커밋을 만들지 않는다.
 - 참고한 레퍼런스는 맨 아래에 명기하도록 한다.
 
 <br>
@@ -16,6 +17,7 @@
 ## 📂 분류
 ### JavaScript
 - [변수(variable)](https://github.com/heejinna/TIL/blob/main/javascript/Variable.md)
+- [표현식(expression)과 문(statement)](https://github.com/heejinna/TIL/blob/main/javascript/Expression%20and%20Statement%20.md)
 
 
 ### Web
