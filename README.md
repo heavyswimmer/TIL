@@ -17,7 +17,7 @@
 ## 📂 분류
 ### JavaScript
 - [변수(variable)](https://github.com/heejinna/TIL/blob/main/javascript/Variable.md)
-- [표현식(expression)과 문(statement)](https://github.com/heejinna/TIL/blob/main/javascript/Expression%20and%20Statement%20.md)
+- [표현식과 문](https://github.com/heejinna/TIL/blob/main/javascript/Expression%20and%20Statement%20.md)
 
 
 ### Web
