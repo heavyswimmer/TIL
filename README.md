@@ -1,6 +1,7 @@
 # 📚 Today I Learned
 ![Last-Commit](https://img.shields.io/github/last-commit/heejinna/TIL)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br><br>
+
 새롭게 배운 내용을 마크다운 문서로 아카이브합니다.
 
 <br>
@@ -18,11 +19,12 @@
 ### JavaScript
 - [변수(variable)](https://github.com/heejinna/TIL/blob/main/javascript/Variable.md)
 - [표현식과 문](https://github.com/heejinna/TIL/blob/main/javascript/Expression%20and%20Statement%20.md)
+- [데이터 타입](https://github.com/heejinna/TIL/blob/main/javascript/03_datatype.md)
 
 
-### Web
+### web
 - [HTML basics](https://github.com/heejinna/TIL/blob/main/html/HTML%20basics.md)
-- [Form element](https://github.com/heejinna/TIL/blob/main/html/Form%20element.md)
+- [Form](https://github.com/heejinna/TIL/blob/main/html/Form%20element.md)
 - [CSS basics](https://github.com/heejinna/TIL/blob/main/css/CSS%20basics.md)
 - [The box model](https://github.com/heejinna/TIL/blob/main/css/The%20box%20model.md)
 - [Display property](https://github.com/heejinna/TIL/blob/main/css/display%20property.md)
