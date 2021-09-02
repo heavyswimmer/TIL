@@ -7,27 +7,27 @@
 <br>
 
 ## 📝 작성 규칙
-- 폴더와 파일명은 가능한 영문으로 작성한다.
-- 작성하는 일에 부담을 갖지 않도록 날짜가 아닌 그날 배운 내용의 주제를 제목으로 한다.
-- 최대한 나의 언어로 바꿔서 작성하기 위해 노력한다.
-- 불필요한 커밋을 만들지 않는다.
-- 참고한 레퍼런스는 맨 아래에 명기하도록 한다.
+- 폴더와 파일명은 영문으로 작성합니다.
+- 작성하는 일에 부담을 갖지 않도록 날짜가 아닌 그날 배운 내용의 주제를 제목으로 합니다.
+- 최대한 나의 언어로 바꿔 작성합니다.
+- 불필요한 커밋을 만들지 않도록 합니다.
+- 참고한 레퍼런스는 맨 아래에 명시합니다.
 
 <br>
   
 ## 📂 분류
 ### JavaScript
-- [변수(variable)](https://github.com/heejinna/TIL/blob/main/javascript/Variable.md)
+- [변수 (variable)](https://github.com/heejinna/TIL/blob/main/javascript/Variable.md)
 - [표현식과 문](https://github.com/heejinna/TIL/blob/main/javascript/Expression%20and%20Statement%20.md)
 - [데이터 타입](https://github.com/heejinna/TIL/blob/main/javascript/03_datatype.md)
 
 
 ### web
-- [HTML basics](https://github.com/heejinna/TIL/blob/main/html/HTML%20basics.md)
-- [Form](https://github.com/heejinna/TIL/blob/main/html/Form%20element.md)
-- [CSS basics](https://github.com/heejinna/TIL/blob/main/css/CSS%20basics.md)
-- [The box model](https://github.com/heejinna/TIL/blob/main/css/The%20box%20model.md)
-- [Display property](https://github.com/heejinna/TIL/blob/main/css/display%20property.md)
+- [HTML 기초](https://github.com/heejinna/TIL/blob/main/html/HTML%20basics.md)
+- [Form 요소](https://github.com/heejinna/TIL/blob/main/html/Form%20element.md)
+- [CSS 기초](https://github.com/heejinna/TIL/blob/main/css/CSS%20basics.md)
+- [박스 모델 (Box Model)](https://github.com/heejinna/TIL/blob/main/css/The%20box%20model.md)
+- [Display Property](https://github.com/heejinna/TIL/blob/main/css/display%20property.md)
 
 ### Java
 - [Singleton pattern](https://github.com/heejinna/TIL/blob/main/Java/Singleton%20pattern.md)
