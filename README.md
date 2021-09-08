@@ -30,7 +30,9 @@
 <br>
 
 ## 🔮 JavaScript
-- [변수 (Variable)](https://github.com/heejinna/TIL/blob/main/javascript/Variable.md)
-- [표현식과 문](https://github.com/heejinna/TIL/blob/main/javascript/Expression%20and%20Statement%20.md)
-- [데이터 타입](https://github.com/heejinna/TIL/blob/main/javascript/03_datatype.md)
+- [변수 (variable)](https://github.com/heejinna/TIL/blob/main/JavaScript/variable.md)
+- [표현식 (expression)](https://github.com/heejinna/TIL/blob/main/JavaScript/expression.md)
+- [문 (statement)](https://github.com/heejinna/TIL/blob/main/JavaScript/statement.md)
+- [데이터 타입 (data type)](https://github.com/heejinna/TIL/blob/main/JavaScript/data-type.md)
+- [연산자 (operator)](https://github.com/heejinna/TIL/blob/main/JavaScript/operator.md)
 
