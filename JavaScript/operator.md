@@ -130,6 +130,31 @@ NaN === NaN; // false
 
 `&&` 와 `||` 연산자는 피연산자가 boolean 값이 아니더라도 피연산자를 타입 변환없이 그대로 반환하는데, 이를 **단축 평가(short-circuit evaluation)** 라 한다.
 
+<table align="center">
+  <thead>
+    <th>표현식</th> 
+    <th>결과</th> 
+  </thead>
+  <tbody align="center">
+    <tr>
+      <td>true || anything</td>
+      <td>true</td>
+    </tr>
+    <tr>
+      <td>false || anything</td>
+      <td>anything</td>
+    </tr>
+    <tr>
+      <td>true && anything</td>
+      <td>anything</td>
+    </tr>
+    <tr>
+      <td>false && anything</td>
+      <td>false</td>
+    </tr>
+  </tbody>
+</table>
+
 ```js
 // 논리곱(&&) 연산자
 'coffee' && 'donut'; // 'donut'
