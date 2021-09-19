@@ -104,7 +104,7 @@ const person = {
 };
 
 console.log(Object.getOwnPropertyDescriptor(person, 'name'));
-// {value: "Lee", writable: true, enumerable: true, configurable: ture}
+// {value: "Lee", writable: true, enumerable: true, configurable: true}
 ```
 
 
