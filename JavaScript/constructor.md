@@ -80,27 +80,28 @@ new foo(); // [[Construct]] 호출
 
 이는 즉 모든 함수 객체는 일반 함수로서는 호출이 가능하지만, 반드시 생성자 함수로서 호출할 수 있는 것은 아니라는 의미이다.
 
-### new 연산자
+## new 연산자
 new 연산자와 함께 함수를 호출하면 `[[Construct]]`가 호출되며 생성자 함수로 동작한다. 때문에 new 연산자와 함께 호출할 함수는 *non-constructor*가 아닌 *constructor*이어야 한다.
 
 new 연산자 없이 호출하면 `[[Call]]`이 호출되며 일반 함수로서 동작한다.
 
-### new.target
-ES6에서 도입되었다. 함수 내부에서 사용시 new 연산자와 함께 생성자 함수로서 호출이 되었는지 확인이 가능하다. IE에서는 지원되지 않으므로 대신 스코프 세이프 생성자 패턴을 사용할 수 있다.
-
-```js
-function Circle(radius) {
-  if(!new.target) {
-    // new 연산자와 함께 생성자 함수를 재귀 호출하여 생성된 인스턴스 반환
-    return new Circle(radius);
-  }
-  this.radius = radius;
-  this.getDiameter = function() {
-    return 2 * this.radius;
-  };
-}
-
-// new 연산자 없이 호출해도 new.target을 통해 생성자 함수로서 호출됨
-const circle1 = Circle(5);
-console.log(circle1.getDiameter()); // 10
-```
+> **new.target**
+> 
+> ES6에서 도입되었다. 함수 내부에서 사용시 new 연산자와 함께 생성자 함수로서 호출이 되었는지 확인이 가능하다. IE에서는 지원되지 않으므로 대신 스코프 세이프 생성자 패턴을 사용할 수 있다.
+>
+> ```js
+> function Circle(radius) {
+>  if(!new.target) {
+>    // new 연산자와 함께 생성자 함수를 재귀 호출하여 생성된 인스턴스 반환
+>    return new Circle(radius);
+>  }
+>  this.radius = radius;
+>  this.getDiameter = function() {
+>    return 2 * this.radius;
+>  };
+> }
+>
+> // new 연산자 없이 호출해도 new.target을 통해 생성자 함수로서 호출됨
+> const circle1 = Circle(5);
+> console.log(circle1.getDiameter()); // 10
+> ```
