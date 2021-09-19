@@ -75,7 +75,7 @@ new foo(); // [[Construct]] 호출
 ### callable
 내부 메소드 `[[Call]]`을 갖는 함수 객체를 *callable*이라 한다. 호출할 수 없는 객체는 함수 객체가 아니기 때문에 함수 객체는 반드시 *callable*이어야 한다. 따라서 모든 함수 객체는 내부 메소드 `[[Call]]`을 갖고 있으며 호출이 가능하다.
 
-### constructor와 non-constructor
+### constructor vs non-constructor
 `[[Call]]` 과 달리 모든 함수 객체가 `[[Construct]]`를 갖는 것은 아니다. `[[Construct]]`를 갖는 함수 객체를 *constructor*, `[[Construct]]`를 갖지 않는 함수 객체를 *non-constructor*라 부른다.
 
 이는 즉 모든 함수 객체는 일반 함수로서는 호출이 가능하지만, 반드시 생성자 함수로서 호출할 수 있는 것은 아니라는 의미이다.
