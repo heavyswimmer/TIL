@@ -1,5 +1,5 @@
 # let, const 키워드와 블록 레벨 스코프
-var 키워드로 선언한 변수의 문제점은 [여기](https://github.com/heejinna/TIL/blob/main/JavaScript/variables.md#var-%ED%82%A4%EC%9B%8C%EB%93%9C%EB%A1%9C-%EC%84%A0%EC%96%B8%ED%95%9C-%EB%B3%80%EC%88%98%EC%9D%98-%EB%AC%B8%EC%A0%9C%EC%A0%90)를 참조
+※ var 키워드로 선언한 변수의 문제점은 [여기](https://github.com/heejinna/TIL/blob/main/JavaScript/variables.md#var-%ED%82%A4%EC%9B%8C%EB%93%9C%EB%A1%9C-%EC%84%A0%EC%96%B8%ED%95%9C-%EB%B3%80%EC%88%98%EC%9D%98-%EB%AC%B8%EC%A0%9C%EC%A0%90)를 참조
 
 ## let
 ### 1. 중복 선언 불가
