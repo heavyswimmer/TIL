@@ -50,11 +50,12 @@ const TAX_RATE = 0.1;
 
 <br>
 
-> **var vs let vs const**
-> 
-> - ES6를 사용한다면 var 키워드는 사용하지 않아야 한다.
-> - 변수를 선언할 때는 일단 const 키워드를 사용한다.
-> - 재할당이 필요하다고 판단될 때에 한해 let으로 변경한다.
+## const vs let vs var
+> **Always const, sometimes let, never var.**
+
+- ES6를 사용한다면 var 키워드는 사용하지 않아야 한다.
+- 변수를 선언할 때는 일단 const 키워드를 사용한다.
+- 재할당이 필요하다고 판단될 때에 한해 let으로 변경한다.
 
 
 
