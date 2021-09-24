@@ -17,7 +17,7 @@
 
 <br>
 
-## 🌍 Web
+## 🌍 Markup
 - HTML
   * [HTML 기초](https://github.com/heejinna/TIL/blob/main/html/HTML%20basics.md)
   * [Form 요소](https://github.com/heejinna/TIL/blob/main/html/Form%20element.md)
@@ -39,4 +39,5 @@
 - [let, const 키워드와 블록 레벨 스코프](https://github.com/heejinna/TIL/blob/main/JavaScript/let_const_block-level-scope.md)
 - [프로퍼티 어트리뷰트](https://github.com/heejinna/TIL/blob/main/JavaScript/property-attribute.md)
 - [생성자 함수에 의한 객체 생성](https://github.com/heejinna/TIL/blob/main/JavaScript/constructor.md)
-
+- [함수와 일급 객체](https://github.com/heejinna/TIL/blob/main/JavaScript/first-class-object.md)
+- [strict mode](https://github.com/heejinna/TIL/blob/main/JavaScript/strict-mode.md)
