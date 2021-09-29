@@ -43,4 +43,5 @@
 - [프로퍼티 어트리뷰트](https://github.com/heejinna/TIL/blob/main/JavaScript/property-attribute.md)
 - [생성자 함수에 의한 객체 생성](https://github.com/heejinna/TIL/blob/main/JavaScript/constructor.md)
 - [함수와 일급 객체](https://github.com/heejinna/TIL/blob/main/JavaScript/first-class-object.md)
+- [프로토타입](https://github.com/heejinna/TIL/blob/main/JavaScript/prototype.md)
 - [strict mode](https://github.com/heejinna/TIL/blob/main/JavaScript/strict-mode.md)
