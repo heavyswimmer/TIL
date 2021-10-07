@@ -45,3 +45,4 @@
 - [함수와 일급 객체](https://github.com/heejinna/TIL/blob/main/JavaScript/first-class-object.md)
 - [프로토타입](https://github.com/heejinna/TIL/blob/main/JavaScript/prototype.md)
 - [strict mode](https://github.com/heejinna/TIL/blob/main/JavaScript/strict-mode.md)
+- [화살표 함수](https://github.com/heejinna/TIL/blob/main/JavaScript/arrow_function.md)
