@@ -35,8 +35,6 @@
 - [문 (statement)](https://github.com/heejinna/TIL/blob/main/JavaScript/statement.md)
 - [데이터 타입 (data type)](https://github.com/heejinna/TIL/blob/main/JavaScript/data-type.md)
 - [연산자 (operators)](https://github.com/heejinna/TIL/blob/main/JavaScript/operator.md)
-- 객체 (object)
-- 함수 (function)
 - [스코프 (scope)](https://github.com/heejinna/TIL/blob/main/JavaScript/scope.md)
 - [전역 변수의 문제점](https://github.com/heejinna/TIL/blob/main/JavaScript/global-variables.md)
 - [let, const 키워드와 블록 레벨 스코프](https://github.com/heejinna/TIL/blob/main/JavaScript/let_const_block-level-scope.md)
